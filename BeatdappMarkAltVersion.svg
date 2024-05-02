@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="41px" height="40px" viewBox="0 0 41 40" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <title>logo</title>
+  <g id="Custom-Reports-(Work-in-Progress)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="dashboard-custom-reports-empty" transform="translate(-24.000000, -40.000000)">
+      <g id="logo" transform="translate(24.000000, 40.000000)">
+        <rect id="transparent-container" fill-opacity="0" fill="#D8D8D8" x="0" y="0" width="40.0316935" height="40"/>
+        <g id="Group-2" transform="translate(1.018182, 0.021696)" fill-rule="nonzero">
+          <g id="Group" fill="#000000">
+            <g transform="translate(8.155525, 0.000000)" id="Path">
+              <polygon points="16.2459932 16.6343221 16.2399378 16.5875198 12.4042357 16.5875198 12.4042357 3.8565356 8.12012418 3.8565356 8.12431638 11.2069669 4.28411156 11.2069669 4.28411156 0 0 0 0.0105581178 22.6259387 4.28411156 22.6259387 4.28411156 16.6659368 8.12742171 16.6659368 8.13052703 22.0658615 11.6084952 22.0658615 12.4042357 22.0658615 16.2484775 22.0658615 16.250496 26.580883 20.5242047 26.580883 20.5242047 3.36325238 16.2399378 3.36325238"/>
+              <polygon points="24.3738807 9.45544731 24.3844388 15.9727368 28.6579923 15.9727368 28.6579923 9.45544731"/>
+            </g>
+            <rect id="Rectangle" x="0" y="10.295408" width="4.2825589" height="4.55686448"/>
+          </g>
+          <g id="Group" transform="translate(0.000311, 14.852428)" fill="#772edd">
+            <rect id="Rectangle" x="0" y="0" width="4.2825589" height="4.55686448"/>
+            <rect id="Rectangle" x="8.16049346" y="7.77351117" width="4.2825589" height="4.55686448"/>
+            <rect id="Rectangle" opacity="0.5" x="8.16049346" y="12.3303757" width="4.2825589" height="4.55686448"/>
+            <rect id="Rectangle" x="16.2831019" y="7.21343403" width="4.2825589" height="4.55701946"/>
+            <rect id="Rectangle" opacity="0.5" x="16.2832572" y="14.7713759" width="4.2825589" height="4.55686448"/>
+            <rect id="Rectangle" x="24.3953075" y="11.7315549" width="4.2825589" height="4.55686448"/>
+            <rect id="Rectangle" opacity="0.25" x="24.3953075" y="19.2797335" width="4.2825589" height="4.55686448"/>
+            <rect id="Rectangle" opacity="0.25" x="16.284344" y="19.3282404" width="4.2825589" height="4.55686448"/>
+            <rect id="Rectangle" x="32.5298715" y="1.1272831" width="4.2825589" height="4.55701946"/>
+            <rect id="Rectangle" opacity="0.5" x="32.530182" y="5.68445753" width="4.2825589" height="4.55686448"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
